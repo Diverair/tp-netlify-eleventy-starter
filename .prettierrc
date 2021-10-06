@@ -4,3 +4,10 @@
   "semi": false,
   "singleQuote": true
 }
+
+'prettier/prettier': [
+  'error',
+  {
+    'endOfLine': 'auto',
+  }
+]
